@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.150080718085241, 41.382724045510841]
+            },
+            "properties": { "site": "Valencia Rocafort", "cameraCode": "110_1" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.1511080961489801, 41.38095655626114]
+            },
+            "properties": {
+                "site": "ConsellDeCent Rocafort",
+                "cameraCode": "110_4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.1545623827023972, 41.383468158967922]
+            },
+            "properties": {
+                "site": "ConsellDeCent CompteBorrell",
+                "cameraCode": "110_5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.1602179108875639, 41.39036973968728]
+            },
+            "properties": {
+                "site": "Valencia EnriqueGranados",
+                "cameraCode": "110_2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.161288838695814, 41.387766324340284]
+            },
+            "properties": {
+                "site": "ConsellDeCent EnriqueGranados",
+                "cameraCode": "110_6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.169248544272488, 41.397171097254109]
+            },
+            "properties": { "site": "Valencia Girona", "cameraCode": "110_3" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.1703867762313491, 41.39537281623813]
+            },
+            "properties": {
+                "site": "ConsellDeCent Girona",
+                "cameraCode": "110_8"
+            }
+        }
+    ]
+}
